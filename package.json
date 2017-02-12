@@ -1,0 +1,25 @@
+{
+  "name": "gif-particle-explosion-generator",
+  "version": "1.0.0",
+  "description": "Node.js script to generate an imagemagick script to create a particle explosion gif ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hhamilto/gif-particle-explosion-generator.git"
+  },
+  "keywords": [
+    "gif",
+    "explosion",
+    "image",
+    "imagemagick"
+  ],
+  "author": "Hurricane Hamilton <hhamilto@mtu.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hhamilto/gif-particle-explosion-generator/issues"
+  },
+  "homepage": "https://github.com/hhamilto/gif-particle-explosion-generator#readme"
+}
